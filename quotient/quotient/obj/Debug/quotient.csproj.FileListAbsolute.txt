@@ -1,0 +1,8 @@
+C:\Users\Uday\source\repos\quotient\quotient\bin\Debug\quotient.exe.config
+C:\Users\Uday\source\repos\quotient\quotient\bin\Debug\quotient.exe
+C:\Users\Uday\source\repos\quotient\quotient\bin\Debug\quotient.pdb
+C:\Users\Uday\source\repos\quotient\quotient\obj\Debug\quotient.csproj.AssemblyReference.cache
+C:\Users\Uday\source\repos\quotient\quotient\obj\Debug\quotient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uday\source\repos\quotient\quotient\obj\Debug\quotient.csproj.CoreCompileInputs.cache
+C:\Users\Uday\source\repos\quotient\quotient\obj\Debug\quotient.exe
+C:\Users\Uday\source\repos\quotient\quotient\obj\Debug\quotient.pdb

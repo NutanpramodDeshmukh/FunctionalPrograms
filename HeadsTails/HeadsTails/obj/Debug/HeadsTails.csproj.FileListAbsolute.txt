@@ -1,0 +1,3 @@
+C:\Users\Uday\source\repos\HeadsTails\HeadsTails\obj\Debug\HeadsTails.csproj.AssemblyReference.cache
+C:\Users\Uday\source\repos\HeadsTails\HeadsTails\obj\Debug\HeadsTails.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uday\source\repos\HeadsTails\HeadsTails\obj\Debug\HeadsTails.csproj.CoreCompileInputs.cache

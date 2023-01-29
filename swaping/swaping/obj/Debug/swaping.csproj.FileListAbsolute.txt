@@ -1,0 +1,8 @@
+C:\Users\Uday\source\repos\swaping\swaping\bin\Debug\swaping.exe.config
+C:\Users\Uday\source\repos\swaping\swaping\bin\Debug\swaping.exe
+C:\Users\Uday\source\repos\swaping\swaping\bin\Debug\swaping.pdb
+C:\Users\Uday\source\repos\swaping\swaping\obj\Debug\swaping.csproj.AssemblyReference.cache
+C:\Users\Uday\source\repos\swaping\swaping\obj\Debug\swaping.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uday\source\repos\swaping\swaping\obj\Debug\swaping.csproj.CoreCompileInputs.cache
+C:\Users\Uday\source\repos\swaping\swaping\obj\Debug\swaping.exe
+C:\Users\Uday\source\repos\swaping\swaping\obj\Debug\swaping.pdb

@@ -1,0 +1,8 @@
+C:\Users\Uday\source\repos\factor\factor\bin\Debug\factor.exe.config
+C:\Users\Uday\source\repos\factor\factor\bin\Debug\factor.exe
+C:\Users\Uday\source\repos\factor\factor\bin\Debug\factor.pdb
+C:\Users\Uday\source\repos\factor\factor\obj\Debug\factor.csproj.AssemblyReference.cache
+C:\Users\Uday\source\repos\factor\factor\obj\Debug\factor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uday\source\repos\factor\factor\obj\Debug\factor.csproj.CoreCompileInputs.cache
+C:\Users\Uday\source\repos\factor\factor\obj\Debug\factor.exe
+C:\Users\Uday\source\repos\factor\factor\obj\Debug\factor.pdb

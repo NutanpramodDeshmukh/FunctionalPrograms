@@ -1,0 +1,8 @@
+C:\Users\Uday\source\repos\EvenOdd\EvenOdd\bin\Debug\EvenOdd.exe.config
+C:\Users\Uday\source\repos\EvenOdd\EvenOdd\bin\Debug\EvenOdd.exe
+C:\Users\Uday\source\repos\EvenOdd\EvenOdd\bin\Debug\EvenOdd.pdb
+C:\Users\Uday\source\repos\EvenOdd\EvenOdd\obj\Debug\EvenOdd.csproj.AssemblyReference.cache
+C:\Users\Uday\source\repos\EvenOdd\EvenOdd\obj\Debug\EvenOdd.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uday\source\repos\EvenOdd\EvenOdd\obj\Debug\EvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\Uday\source\repos\EvenOdd\EvenOdd\obj\Debug\EvenOdd.exe
+C:\Users\Uday\source\repos\EvenOdd\EvenOdd\obj\Debug\EvenOdd.pdb

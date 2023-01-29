@@ -1,0 +1,8 @@
+C:\Users\Uday\source\repos\vowelConst\vowelConst\obj\Debug\vowelConst.csproj.AssemblyReference.cache
+C:\Users\Uday\source\repos\vowelConst\vowelConst\obj\Debug\vowelConst.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uday\source\repos\vowelConst\vowelConst\obj\Debug\vowelConst.csproj.CoreCompileInputs.cache
+C:\Users\Uday\source\repos\vowelConst\vowelConst\bin\Debug\vowelConst.exe.config
+C:\Users\Uday\source\repos\vowelConst\vowelConst\bin\Debug\vowelConst.exe
+C:\Users\Uday\source\repos\vowelConst\vowelConst\bin\Debug\vowelConst.pdb
+C:\Users\Uday\source\repos\vowelConst\vowelConst\obj\Debug\vowelConst.exe
+C:\Users\Uday\source\repos\vowelConst\vowelConst\obj\Debug\vowelConst.pdb
